@@ -1,0 +1,28 @@
+header {
+  text-align: center;
+}
+
+.logo {
+  width: 200px;
+  height: 200px;
+}
+
+.main {
+  display: flex;
+  align-items: center auto;
+  justify-content: center;
+}
+
+.section-main {
+  width: 67%;
+  border: 1px solid black;
+}
+
+.nav {
+  border: 1px solid black;
+
+}
+
+body {
+  background-color: lightgrey;
+}
